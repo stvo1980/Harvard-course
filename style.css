@@ -1,0 +1,28 @@
+
+h1 {
+    color:blue;
+    text-align: center;
+
+}
+h2 {
+    color:rgb(200, 255, 0);
+    text-align: right;
+
+}
+thead {
+    color: crimson;
+    text-align: center;
+}
+/* #id for styling only by id, .class to style by class     */
+
+
+
+ tbody {
+     color: blueviolet;
+     text-align: center;
+ }
+
+
+
+/* see table file how to link style page*/ 
+
